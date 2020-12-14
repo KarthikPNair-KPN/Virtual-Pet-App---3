@@ -8,11 +8,11 @@ var bedroomImg,gardenImg,washroomImg;
 var currentTime;
 
 function preload(){
-  sadDog=loadImage("Images/Dog.png");
-  happyDog=loadImage("Images/happy dog.png");
-  bedroomImg = loadImage("virtual pet images/Bed Room.png");
-  gardenImg = loadImage("virtual pet images/Garden.png");
-  washroomImg = loadImage("virtual pet images/Wash Room.png");
+  sadDog=loadImage("Dog.png");
+  happyDog=loadImage("happy dog.png");
+  bedroomImg = loadImage("Bed Room.png");
+  gardenImg = loadImage("Garden.png");
+  washroomImg = loadImage("Wash Room.png");
 }
 
 function setup() {
